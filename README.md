@@ -1,5 +1,5 @@
 # Pipiline_CI-CD_Docker-
-la mise en place  d'un Pipeline CI/CD sur Docker avec l'utilisation de plusieurs technologies différentes  <br>
+lMise en place d'une pipeline de CI/CD avec Jenkins avec l'utilisation de plusieurs technologies différentes  <br>
 # DevOps
 Ensemble de techniques et d’outils facilitant le passage du
 d´eveloppement `a la production.
