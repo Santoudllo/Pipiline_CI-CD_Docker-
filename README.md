@@ -15,3 +15,14 @@ CI/CD est l’acronyme pour Intégration Continue / Livraison et Déploiement Co
   Comprendre le Principe de DOCKER <br>
   Savoir L’UTILISATION DE DOCKER AVEC UNE APPROCHE CI/CD<br>
   Utilisation de Docker avec Pipeline <br>
+
+  # LES PRÉREQUIS
+  Pour commencer il vous faudra : <br>
+  Un compte Docker Hub  <br>
+  un fichier .Jenkinsfile <br>
+  Utilisation de plusieurs conteneurs <br>
+  Utilisation d’un Dockerfile <br>
+  Configuration du chemin d’accès pour les utilisateurs de mac OS <br>
+  Construction de conteneurs <br>
+  Utilisation d’un serveur Docker distant <br>
+  Utilisation d’un registre personnalisé <br>
